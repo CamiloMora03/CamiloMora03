@@ -19,24 +19,27 @@
 ###
 
 <h1 align="center"></h1>
+<table>
+  <tr>
+    <td>
+      <h3 align="left">👩‍💻 Sobre mí</h3>
+      <p align="left">
+        🔧 Desarrollador Backend con experiencia en C# y .NET, también familiarizado con Java, Python, y frameworks como React, Angular y Spring Boot.<br>
+        📊 Me apasiona crear soluciones que automaticen y analicen datos, como sistemas de control de tareas, rutinas o finanzas, y asistentes basados en IA.<br>
+        🚀 Actualmente trabajo como backend developer y desarrollo proyectos propios con visión de emprender en el mundo del software.
+      </p>
+    </td>
+    <td>
+      <h3 align="left">👩‍💻 About me</h3>
+      <p align="left">
+        🔧 Backend Developer experienced in C# and .NET, also familiar with Java, Python, and frameworks like React, Angular, and Spring Boot.<br>
+        📊 I'm passionate about building solutions that automate and analyze data—task managers, routine trackers, finance tools, and AI-based assistants.<br>
+        🚀 Currently working as a backend developer while building personal projects with the goal of launching my own software company.
+      </p>
+    </td>
+  </tr>
+</table>
 
-###
-
-<h3 align="left">👩‍💻  Sobre mí</h3>
-
-###
-
-<p align="left">🔧 Desarrollador Backend con experiencia en C# y .NET, también familiarizado con Java, Python, y frameworks como React, Angular y Spring Boot.<br>📊 Me apasiona crear soluciones que automaticen y analicen datos, como sistemas de control de tareas, rutinas o finanzas, y asistentes basados en IA.<br>🚀 Actualmente trabajo como backend developer y desarrollo proyectos propios con visión de emprender en el mundo del software.</p>
-
-###
-
-<h3 align="left">👩‍💻  About me</h3>
-
-###
-
-<p align="left">🔧 Backend Developer experienced in C# and .NET, also familiar with Java, Python, and frameworks like React, Angular, and Spring Boot.<br>📊 I'm passionate about building solutions that automate and analyze data—task managers, routine trackers, finance tools, and AI-based assistants.<br>🚀 Currently working as a backend developer while building personal projects with the goal of launching my own software company.</p>
-
-###
 
 <h3 align="left">🛠 Lenguajes y herramientas / Languages and tools</h3>
 
