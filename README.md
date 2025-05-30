@@ -91,6 +91,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/CamiloMora03/CamiloMora03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/CamiloMora03/CamiloMora03/output/snake.svg?t=1" alt="Snake animation" />
 
 ###
