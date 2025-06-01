@@ -16,25 +16,39 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CamiloMora03.CamiloMora03&"  />
 </div>
 
-###
 
-<h1 align="center">Estoy aquí ↓ / I'm here ↓ </h1>
 <table>
+  <tr>
+    <td>
+<h1 align="center"> El Que Estás Buscando</h1>
+    </td>
+        <td>
+<h1 align="center">The One You’re Looking For</h1>
+    </td>
+  </tr>
   <tr>
     <td>
       <h3 align="left">👩‍💻 Sobre mí</h3>
       <p align="left">
-        🔧 Desarrollador Backend con experiencia en C# y .NET, también familiarizado con Java, Python, y frameworks como React, Angular y Spring Boot.<br>
-        📊 Me apasiona crear soluciones que automaticen y analicen datos, como sistemas de control de tareas, rutinas o finanzas, y asistentes basados en IA.<br>
-        🚀 Actualmente trabajo como backend developer y desarrollo proyectos propios con visión de emprender en el mundo del software.
+
+💼 Desarrollador Backend especializado en C# y .NET.  
+🌐 Familiarizado con Java, Python y tecnologías web como React, Angular y Spring Boot.  
+🛠 Apasionado por la automatización de procesos, análisis de datos y desarrollo de sistemas escalables.  
+📚 En constante aprendizaje de arquitectura de software, patrones de diseño y principios de código limpio.  
+🚀 Actualmente desarrollando proyectos personales enfocados en productividad, gestión de tareas y asistentes con IA.  
+🎯 Abierto a colaboraciones y nuevas oportunidades en desarrollo backend o fullstack.
       </p>
     </td>
     <td>
       <h3 align="left">👩‍💻 About me</h3>
       <p align="left">
-        🔧 Backend Developer experienced in C# and .NET, also familiar with Java, Python, and frameworks like React, Angular, and Spring Boot.<br>
-        📊 I'm passionate about building solutions that automate and analyze data—task managers, routine trackers, finance tools, and AI-based assistants.<br>
-        🚀 Currently working as a backend developer while building personal projects with the goal of launching my own software company.
+        
+💼 Backend Developer specialized in C# and .NET.  
+🌐 Familiar with Java, Python, and web technologies like React, Angular, and Spring Boot.  
+🛠 Passionate about automating workflows, analyzing data, and building scalable backend systems.  
+📚 Continuously learning software architecture, design patterns, and clean code principles.  
+🚀 Currently working on personal projects focused on productivity, task management, and AI-based assistants.  
+🎯 Open to collaboration and new opportunities in backend or fullstack development.
       </p>
     </td>
   </tr>
@@ -81,16 +95,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiloMora03&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=darcula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CamiloMora03&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/CamiloMora03/CamiloMora03/output/snake.svg?t=1" alt="Snake animation" />
 
-###
+
